@@ -10,7 +10,7 @@
 
 <b>Deploy on Heroku</b>
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Damantha126/MyTelegramORG">
+  <a href="https://heroku.com/deploy?template=https://github.com/navaneethrkrishna/MyTelegramORG">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
